@@ -10,4 +10,4 @@ The output is a heatmap showing the processes of each database as rows and colum
 **Run the shell script Enrichment.sh, and as arguments first the directory containing the lists of genes (genelist.txt) and second p-value for the analysis.**
 
 **There must be at least two gene lists and such files must have the extension ".txt".**
-**If there is no process that enrisquesca any comundiad, there will be an error.**
+**If there is no process that enrich any community, there will be an error.**
